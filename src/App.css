@@ -1,0 +1,17 @@
+#root {
+  width: 1280px;
+  margin: 0 auto;
+  text-align: center;
+}
+html {
+  background-color: #0F1C2E;
+}
+
+.read-the-docs {
+  color: #888;
+}
+h1 {
+  font-size: 2rem;
+  margin-bottom: 1rem;
+  transition: 50s;
+}
