@@ -17,16 +17,32 @@ A simple and efficient To-Do List web application built with React.js to help us
 - JavaScript (ES6+) 🚀  
 - Other useful libraries 📦  
 
-------
+## 📂 Installation & Setup  
 
-## 🌟 My Portfolio  
+1. Clone the repository:  
+   ```sh  
+   git clone https://github.com/mo-atwa/Lone-Form.git  
+   cd Lone-Form  
+   ```  
+2. Install dependencies:  
+   ```sh  
+   npm install  
+   ```  
+3. Start the development server:  
+   ```sh  
+   npm start  
+   ```
+   
+----------
 
-Hello! I'm **Mohamed Atwa**, a Front-End Developer passionate about building modern web interfaces using React.js.  
+## 🌟 About Me  
 
-🚀 **Live Demo:** [Preview](https://atwa-portfolio.netlify.app)  
+Hey! I'm **Mohamed Atwa**, a passionate **Front-End Developer** specializing in **React.js**.  
 
-📂 **GitHub Repository:** [GitHub](https://github.com/mo-atwa/My-Portfolio)  
+🚀 **Portfolio:** [Visit Here](https://atwa-portfolio.netlify.app)  
+📂 **GitHub:** [Check My Projects](https://github.com/mo-atwa)  
+📄 **Resume (CV):** [View Here](https://drive.google.com/file/d/1oH9P8n6Gb4Hv0qNAXYkjiC-fvSW14jEb/view)  
 
-📄 **My CV:** [View Here](https://drive.google.com/file/d/1oH9P8n6Gb4Hv0qNAXYkjiC-fvSW14jEb/view?usp=sharing)  
+---  
 
-Feel free to explore the project and contribute! 😊  
+💡 *Feel free to contribute, report issues, or give feedback!* 😊
