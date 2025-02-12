@@ -2,7 +2,7 @@
 
 A simple and efficient To-Do List web application built with React.js to help users manage their tasks effectively.  
 
-🚀 **Live Demo:** [preview](https://task-mohem.netlify.app/)
+🚀 **Live Demo:** [preview](https://task-mohem.netlify.app/)   
 📂 **GitHub Repository:** [Here](https://github.com/mo-atwa/Task-Mohem)
 
 ## ✨ Features  
